@@ -1,0 +1,1 @@
+This script reads Flowdock export data (from https://leon.flowdock.com), takes the #fiiwis tagged messages, and saves the numbers associated to those messages to a CSV file. These CSV files can then be copy-pasted to e.g. Excel and used to chart noisy data about the weather on each day.
